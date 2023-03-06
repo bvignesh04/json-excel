@@ -1,0 +1,84 @@
+{
+  "formValues": [
+    {
+      "email": "wosudomev@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2013-05-02",
+      "model": "Mahindra",
+      "id": 1
+    },
+    {
+      "email": "fubudatebu@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2008-07-14",
+      "model": "Ford",
+      "id": 2
+    },
+    {
+      "email": "duweh@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "1979-10-03",
+      "model": "Tata",
+      "id": 3
+    },
+    {
+      "email": "tunom@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "1992-01-24",
+      "model": "Ford",
+      "id": 4
+    },
+    {
+      "email": "darusig@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "1972-02-07",
+      "model": "Tata",
+      "id": 5
+    },
+    {
+      "email": "tupiqe@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2021-09-18",
+      "model": "Ford",
+      "id": 6
+    },
+    {
+      "email": "nuxat@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "1974-06-29",
+      "model": "Maruti",
+      "id": 7
+    },
+   
+    {
+      "email": "jefizil@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2001-03-19",
+      "model": "Mahindra",
+      "id": 8
+    },
+    {
+      "email": "mory@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2004-07-29",
+      "model": "Tata",
+      "id": 9
+    },
+    {
+      "email": "lazuweruny@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "date": "2022-04-26",
+      "model": "Ford",
+      "id": 10
+    }
+  ],
+  "dropdownModelKeys": [
+    "Ford",
+    "Maruti",
+    "Tata",
+    "Mahindra"
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
