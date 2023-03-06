@@ -6,6 +6,29 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+
+# Initial Setup
+use node version v16.15.1 above
+
+# install dependencies
+$ npm install
+
+!important -- for runing client server and json server , use two different terminals
+
+For running client server ,which will be lisening on port http://localhost:4200/
+$ npm run dev
+
+for running json server , which will be lisening on port localhost:3000
+$ npm run db:serve
+
+To install library for converting data to excel
+npm i xlsx --save
+
+build for production and launch server
+$ npm run build $ npm run start
+
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
@@ -25,3 +48,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
